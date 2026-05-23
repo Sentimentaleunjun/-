@@ -1,0 +1,24 @@
+{
+  "name": "seowootype",
+  "version": "1.0.0",
+  "description": "A clean Korean typing test site with no account system.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "typing",
+    "korean",
+    "express",
+    "render"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
